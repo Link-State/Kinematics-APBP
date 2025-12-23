@@ -27,15 +27,15 @@
     + Configuration Parameter : $x$, $y$, $z$, $\theta_x$, $\theta_y$, $\theta_z$
     + 유니티는 왼손 좌표계를 가짐. $z$축은 독자적으로 회전하는 반면 $x$, $y$축은 $z$축에 종속되어 회전함<br><br>
 
-#### 2-Link Manipulator 실행결과
+### 2-Link Manipulator 실행결과
 
 https://github.com/user-attachments/assets/7767ea99-027e-46cb-87a5-36f31269b375
 
-#### Manipulator X 실행결과
+### Manipulator X 실행결과
 
 https://github.com/user-attachments/assets/c7e2517c-e325-45b4-ad96-b9418df18fbe
 
-#### UAV 실행결과
+### UAV 실행결과
 
 https://github.com/user-attachments/assets/cab89a3b-f696-4213-800e-c5430f9c976e
 
